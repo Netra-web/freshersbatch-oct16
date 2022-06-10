@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-Welcomee u
+Welcome 
 hii sir
-=======
 Welcomee you
->>>>>>> html-assignments
 bye bye
 hii netra
+hii rahul
